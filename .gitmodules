@@ -1,0 +1,4 @@
+[submodule "felipeqvd/Prueba-plantillas2"]
+	path = felipeqvd/Prueba-plantillas2
+	url = git@github.com:felipeqvd/Prueba-plantillas2.git
+	branch = Plantillas
