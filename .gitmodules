@@ -2,3 +2,8 @@
 	path = felipeqvd/Prueba-plantillas2
 	url = git@github.com:felipeqvd/Prueba-plantillas2.git
 	branch = Plantillas
+
+[submodule "felipeqvd/ARTDEKO_Odoo3"]
+	path = felipeqvd/ARTDEKO_Odoo3
+	url = git@github.com:felipeqvd/ARTDEKO_Odoo3.git
+	branch = master
